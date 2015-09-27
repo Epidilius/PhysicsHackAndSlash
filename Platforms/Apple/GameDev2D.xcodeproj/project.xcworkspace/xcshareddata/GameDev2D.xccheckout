@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B12F93B-2159-4825-8AF7-8F74ABA44DAA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameDev2D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
+		<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project/trunk/GameDev2D</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Final/Platforms/Apple/GameDev2D.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
+		<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project/trunk/GameDev2D/Final/Platforms/Apple/GameDev2D.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GameDev2D</string>
+		</dict>
+	</array>
+</dict>
+</plist>
