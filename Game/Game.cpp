@@ -6,6 +6,54 @@
 //  Copyright (c) 2012 Algonquin College. All rights reserved.
 //
 
+/*
+ TODO
+ Stats:
+    Death Counter: Keeps track of the number of times the player has died this session
+    Kills Since Last Death Counter: Keeps track of the number of the kills the player has made since their last death
+    Total Kills Counter: Keeps track of all kills this session
+
+    Health Bar: Keeps track of health. Have this be a bright green, and in bar-chunks
+    Time Since Death: Have a timer (with 1 decimal, so xy.z) keeping track of time since death
+    Respawn Timer: When you die, have the numbers 3, 2, 1 appear taking up most of the screen, then shrink and fade
+        Only appears when you die
+
+    Total Kills Over All Sessions?: Keeps track of every single kill ever
+        Not displayed on Game Screen
+    Total Deaths Over All Sessions?: Keeps track of every single death ever 
+        Not displayed on Game Screen
+ 
+ Game Center:
+    Leaderboards for the above stats
+    Achievements (kill x enemies in a single life, kill x enemies, survive for x time, etc)
+ 
+ Menus:
+    Main Menu
+        A "Play" button which starts a new session
+        An "Instructions" button to open the instructions screen (simple screen with text and basic images)        
+        A "Stats" button to open the stats menu
+    Stats Menu:
+        All the stats listed above and their values
+        A "Reset" button that asks if you're sure, then resets your stats
+    Pause Menu
+        A "Resume" button that resumes the game?
+            Maybe just tapping on not a button does this
+        An "Instructions" button
+        A "Main Menu" button which returns you to the main menu
+ 
+ Game Screen:
+    Pause Button?: This opens the Pause Menu
+        This could also be done by a two or three finger tap
+ 
+ Ads:
+    Do these at the very end
+    Ad banner in the main menu
+    Ad banner in the instructions menu
+    Ad banner in the pause menu
+    NO ads in the Game Screen
+ 
+ */
+
 #include "Game.h"
 #include "Managers/CharacterManager.h"
 #include "Character.h"

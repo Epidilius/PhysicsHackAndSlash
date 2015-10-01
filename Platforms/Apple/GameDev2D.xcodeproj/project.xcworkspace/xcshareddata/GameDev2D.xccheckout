@@ -10,36 +10,31 @@
 	<string>GameDev2D</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
-		<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project/trunk/GameDev2D</string>
+		<key>B51AE770765DA612841D8158A757D51992EF2416</key>
+		<string>https://github.com/Epidilius/PhysicsHackAndSlash.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Final/Platforms/Apple/GameDev2D.xcodeproj</string>
+	<string>Platforms/Apple/GameDev2D.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
-		<string>../../../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</key>
-		<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project</string>
+		<key>B51AE770765DA612841D8158A757D51992EF2416</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://subversion.assembla.com/svn/15w-gam1532-jordan-joel-final-project/trunk/GameDev2D/Final/Platforms/Apple/GameDev2D.xcodeproj</string>
+	<string>https://github.com/Epidilius/PhysicsHackAndSlash.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</string>
+	<string>B51AE770765DA612841D8158A757D51992EF2416</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>ff91ad68-4e1a-4750-83ab-c7d63c472785++4001</string>
+			<string>B51AE770765DA612841D8158A757D51992EF2416</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GameDev2D</string>
+			<string>PhysicsHackAndSlash</string>
 		</dict>
 	</array>
 </dict>
